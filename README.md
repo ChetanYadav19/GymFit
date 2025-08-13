@@ -1,4 +1,4 @@
-# GymFit - Landing Page
+<img width="1912" height="1064" alt="image" src="https://github.com/user-attachments/assets/1f572858-7450-4f49-819f-c266cfd2978d" /># GymFit - Landing Page
 
 GymFit is a modern, responsive landing page designed for fitness enthusiasts and gym businesses. Built using **HTML** and **CSS**, this project showcases a professional layout, bold design, and smooth user experience. It’s perfect for anyone looking to promote a fitness brand online.
 
@@ -19,11 +19,12 @@ GymFit is a modern, responsive landing page designed for fitness enthusiasts and
 - Responsive Design Techniques
 
 ## 📸 Preview
-![GymFit Landing Page Screenshot](images/preview.png)
+![GymFit Landing Page Screenshot]([Uploading image.png…])
+)
 
 ## 📬 Contact
 For queries or feedback:  
-**GitHub:** [YourGitHubProfileLink](https://github.com/YourUsername)
+**GitHub:** [YourGitHubProfileLink](https://github.com/ChetanYadav19)
 
 ---
 
